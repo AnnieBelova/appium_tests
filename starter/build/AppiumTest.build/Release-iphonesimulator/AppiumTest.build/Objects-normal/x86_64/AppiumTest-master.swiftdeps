@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "9e77ccadee6494d953381199bf5aa86c"
+build_time: [1580005146, 870843000]
+inputs:
+  "/Users/anna.belova/Downloads/appium-ios-basic-master/starter/AppiumTest/ViewController.swift": [9223372036, 854775807]
+  "/Users/anna.belova/Downloads/appium-ios-basic-master/starter/AppiumTest/AppDelegate.swift": [9223372036, 854775807]
